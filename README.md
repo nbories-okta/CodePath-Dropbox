@@ -7,7 +7,7 @@ Status: All required stories and 2 optional stories. (did not do favorites)
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](https://github.com/nbories-okta/CodePath-DropBox/blob/master/DropboxWalkthrough.gif)
+![Video Walkthrough](DropBoxWalkthrough.gif)
 
 
 #### Requirements
