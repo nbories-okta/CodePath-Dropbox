@@ -2,8 +2,11 @@ Dropbox - assignment 1
 ======================
 
 Objective: Basic prototyping and navigation
+
 Hours: 7-8 hours
+
 Status: All required stories and 2 optional stories. (did not do favorites)
+
 
 Walkthrough of all user stories:
 
